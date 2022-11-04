@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7206.5319e43c.chunk.js","mappings":"0MAMA,UAJoB,WAClB,OAAO,wCACT,C","sources":["views/exams/reformforms/ReportForms.js"],"sourcesContent":["import React from 'react'\n\nconst ReportForms = () => {\n  return <div>ReportForms</div>\n}\n\nexport default ReportForms\n"],"names":[],"sourceRoot":""}

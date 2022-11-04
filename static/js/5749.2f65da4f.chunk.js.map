@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/5749.2f65da4f.chunk.js","mappings":"0MAMA,UAJgB,WACd,OAAO,6CACT,C","sources":["views/exams/resultsprocessor/Process.js"],"sourcesContent":["import React from 'react'\n\nconst Process = () => {\n  return <div>resultsprocessor</div>\n}\n\nexport default Process\n"],"names":[],"sourceRoot":""}

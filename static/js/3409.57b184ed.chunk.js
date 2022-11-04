@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[3409],{23409:function(e,r,t){t.r(r);t(72791);var i=t(80184);r.default=function(){return(0,i.jsx)("div",{children:"MeritList"})}}}]);
+//# sourceMappingURL=3409.57b184ed.chunk.js.map
